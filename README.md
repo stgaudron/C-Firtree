@@ -2,7 +2,7 @@
 Basic C program
 
 $./firtree 4
-              *
+              */n
              ***
             *****
            *******
